@@ -1,0 +1,68 @@
+.click-button {
+      border-color: lightgray ;
+      background-color: dimgrey;
+      padding: 10px 30px;
+      border-radius: 30px;
+      color: white;
+      cursor: pointer;
+      border-style: solid;
+      font-weight: bolder;
+      transition: opacity 0.15s;
+      vertical-align: top;
+    }
+
+.click-button:active {
+  background-color: grey;
+}
+
+.click-button:hover {
+  opacity: 0.8;
+}
+
+.join-button {
+  border-color: deepskyblue;
+  border-radius: 5px;
+  background-color: white;
+  color: deepskyblue;
+  padding: 10px 30px;
+  border-width: 1px;
+  border-style: solid;
+  font-weight: bold;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: 0.15s;
+  vertical-align: top;
+}
+
+.join-button:hover {
+  background-color: whitesmoke;
+}
+
+.join-button:active {
+  background-color: deepskyblue;
+  color: white;
+}
+
+.tweet-button {
+  border: none;
+  padding: 13px 30px;
+  background-color: deepskyblue;
+  color: white;
+  font-weight: bolder;
+  border-radius: 30px;
+  margin-left: 8px;
+  cursor: pointer;
+  transition: 150ms;
+  vertical-align: top;
+}
+
+.tweet-button:active {
+  background-color: white;
+  color: deepskyblue;
+  border-color: deepskyblue;
+  border: solid;
+}
+
+.tweet-button:hover {
+  box-shadow: 3px 4px 3px rgba(0, 0, 0, 0.15);
+}

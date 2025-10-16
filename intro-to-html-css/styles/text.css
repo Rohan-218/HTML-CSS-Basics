@@ -16,17 +16,17 @@ p {
 
 .stats {
   font-size: 14px;
-  color: rgb(96,96,96);
+  color: rgb(96, 96, 96);
 }
 
 .name {
-  color: rgb(96,96,96);
+  color: rgb(96, 96, 96);
   font-size: 14px;
   margin-top: 20px;
 }
 
 .para2 {
-  color: rgb(96,96,96);
+  color: rgb(96, 96, 96);
   font-size: 14px;
   margin-top: 20px;
   width: 300px;
@@ -34,7 +34,7 @@ p {
   margin-bottom: 100px;
 }
 
-.shop-link-para{
+.shop-link-para {
   margin-top: 20px;
   margin-bottom: 30px;
   background-color: dimgrey;
@@ -49,6 +49,6 @@ p {
   cursor: pointer;
   margin-left: 2px;
 }
-.shop-link:hover{
+.shop-link:hover {
   text-decoration: underline;
 }

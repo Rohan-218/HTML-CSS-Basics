@@ -1,15 +1,15 @@
 .click-button {
-      border-color: lightgray ;
-      background-color: dimgrey;
-      padding: 10px 30px;
-      border-radius: 30px;
-      color: white;
-      cursor: pointer;
-      border-style: solid;
-      font-weight: bolder;
-      transition: opacity 0.15s;
-      vertical-align: top;
-    }
+  border-color: lightgray;
+  background-color: dimgrey;
+  padding: 10px 30px;
+  border-radius: 30px;
+  color: white;
+  cursor: pointer;
+  border-style: solid;
+  font-weight: bolder;
+  transition: opacity 0.15s;
+  vertical-align: top;
+}
 
 .click-button:active {
   background-color: grey;
